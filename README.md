@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shushila Budhathoki</h1>
-<h3 align="center">A passionate Frontend / Web GIS developer from Nepal</h3>
+<h3 align="center">A passionate frontend / Web GIS developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushila21&label=Profile%20views&color=0e75b6&style=flat" alt="shushila21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shushila21" alt="shushila21" /></a> </p>
 
 - 🔭 I’m currently working on **DASTAA (Digital and Spatial Technologies for Anticipatory Action)**
 
@@ -28,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shushila21&show_icons=true&locale=en" alt="shushila21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushila21&" alt="shushila21" /></p>
-
